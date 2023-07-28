@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Janvi426&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Janvi426&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Janvi426&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
