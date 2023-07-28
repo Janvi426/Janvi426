@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/janvi_rupapara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janvi_rupapara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/janvirupapara426/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janvirupapara426/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janvirupapara426/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janvirupapara426/" height="30" width="40" /></a>
 <a href="https://medium.com/@janvirupapara566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@janvirupapara566" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/janvi rupapara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="janvi rupapara" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/r_janvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/r_janvi/" height="30" width="40" /></a>
