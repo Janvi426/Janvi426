@@ -2,16 +2,13 @@
 👋 Hello Folks, 🤝Welcome to my GitHub Profile<br>👩‍💻 Currently, I'm pursuing Bachelor's of Engineering in Computer Field(2021 - 2025).<br>🏆 Google Developer Student Club's Leader (2023 - 2024)<br>🌱 I am an enthusiastic and dedicated individual, passionate about constantly expanding my knowledge in cutting-edge technologies🌟<br>🚀 Constantly on the hunt for the latest tech innovations, with a keen eye on mastering AI tools! <br>🌟 A quick catcher and a lifelong learner.
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/janvirupapara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janvirupapara426) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@janvirupapara566) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Janvi_Rupapara) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UClqxFOirPrncdGlAA8apKyQ) 
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left"> 🌐 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/janvi_rupapara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janvi_rupapara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/janvirupapara426/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janvirupapara426/" height="30" width="40" /></a>
 <a href="https://medium.com/@janvirupapara566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@janvirupapara566" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/janvi rupapara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="janvi rupapara" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/r_janvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/r_janvi/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/r_janvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/r_janvi/" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
