@@ -21,9 +21,7 @@
 
 ## Stats📈
 
-<a align="left" href="https://github.com/YatharthChauhan2362/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=YatharthChauhan2362&style=for-the-badge">
-</a>
+[![](https://visitcount.itsvg.in/api?id=Janvi426&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!-- <a href="https://www.linkedin.com/in/ayushi-george/"><img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" /></a>&nbsp;&nbsp; -->
   <a href="https://github.com/Janvi426">
 <img alt="followers" title="Followers me on Github" src="https://img.shields.io/github/followers/Janvi426?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>&nbsp;&nbsp;&nbsp;
@@ -42,6 +40,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Janvi426&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
