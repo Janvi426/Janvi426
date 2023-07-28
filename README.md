@@ -26,7 +26,7 @@
 </a>
 <!-- <a href="https://www.linkedin.com/in/ayushi-george/"><img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" /></a>&nbsp;&nbsp; -->
   <a href="https://github.com/Janvi426">
-<img alt="followers" title="Followers me on Github" src="https://img.shields.io/github/followers/ayushigeorge?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>&nbsp;&nbsp;&nbsp;
+<img alt="followers" title="Followers me on Github" src="https://img.shields.io/github/followers/Janvi426?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>&nbsp;&nbsp;&nbsp;
 
 <br>
 
