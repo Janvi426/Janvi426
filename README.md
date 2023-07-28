@@ -27,6 +27,7 @@
 <img alt="followers" title="Followers me on Github" src="https://img.shields.io/github/followers/Janvi426?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>&nbsp;&nbsp;&nbsp;
 
 <br>
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Janvi426&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -36,7 +37,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Janvi426&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+<br>
+
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
