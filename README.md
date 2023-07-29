@@ -18,6 +18,7 @@
 <a href="https://www.leetcode.com/r_janvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/r_janvi/" height="30" width="40" /></a>
 </p>
 
+<br> 
 
 ## Stats📈
 <!-- [![](https://visitcount.itsvg.in/api?id=Janvi426&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
