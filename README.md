@@ -5,6 +5,7 @@
 </div> 
 
   <!-- <img align='right' src="https://media2.giphy.com/media/w0Fy3hcQuZxxQgo0KR/giphy.gif" width="100" height="100" > -->
+  <br> 
   
 # 💫 About Me : 
 
