@@ -1,4 +1,6 @@
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CHANGE,+IS+INEVITABLE.;GROWTH,+IS+OPTIONAL)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/98517363/227380175-923d450b-d608-45fd-8d23-ccc1d26eb83b.gif" align="center" style="width: 40%" />
 </div> 
 
@@ -6,8 +8,6 @@
   <!-- <img align='right' src="https://media2.giphy.com/media/w0Fy3hcQuZxxQgo0KR/giphy.gif" width="100" height="100" > -->
 # 💫 About Me :
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px"> Hello Folks, 🤝Welcome to my GitHub Profile<br>👩‍💻 Currently, I'm pursuing Bachelor's of Engineering in Computer Field (2021 - 2025).<br>🏆 Google Developer Student Club's Leader (2023 - 2024)<br>🌱 I am an enthusiastic and dedicated individual, passionate about constantly expanding my knowledge in cutting-edge technologies🌟<br>🚀 Constantly on the hunt for the latest tech innovations, with a keen eye on mastering AI tools! <br>🌟 A quick catcher and a lifelong learner.
-
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CHANGE,+IS+INEVITABLE.;GROWTH,+IS+OPTIONAL)](https://git.io/typing-svg)
 
 <br> 
 
