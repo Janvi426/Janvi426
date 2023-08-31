@@ -52,7 +52,7 @@
 <br>
 <br>
 
-![logo](https://github.com/Ritu84/Ritu84-/blob/main/snake%20gif.gif)
+
 
 
 # 📊 GitHub Stats:
