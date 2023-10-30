@@ -1,4 +1,6 @@
 <div align="left">
+
+[![An image of @janvi426's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janvi426)](https://holopin.io/@janvi426)
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CHANGE,+IS+INEVITABLE.;GROWTH,+IS+OPTIONAL)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/98517363/227380175-923d450b-d608-45fd-8d23-ccc1d26eb83b.gif" align="left" style="width: 40%" />
